@@ -23,5 +23,3 @@ There are three classes developed in this program
 2. sorter class -> used to sort a vector based on the choice of algorithm, print it in consol, and print sorted array in an output file.
 3. statistics class -> runs sorting algorithms 100 times then provided a specific run time statistic for an algorithm and provide an algorithms comparison report.
 
-## Sample Command Line Input 
-![Command Line Input]("C:\Users\rbend\OneDrive\Desktop\ss.png")
