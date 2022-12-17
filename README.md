@@ -96,5 +96,7 @@ stat.insertion_median(); // Median of running time
 
 ## References 
 Channels/libraries in the links below were used for understanding the concept behind the algorithms.
+
 [Michael Sambol Channel](https://www.youtube.com/@MichaelSambol/playlists)
+
 [LalithaNatraj Channel](https://www.youtube.com/@LalithaNatraj/playlists)
