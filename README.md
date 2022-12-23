@@ -32,7 +32,7 @@ There are three classes developed in this program
 ![sl](https://user-images.githubusercontent.com/69400494/208177344-7f135b93-83e7-4efb-9f93-4a0df9621fa8.png)
 
 ### File 2 - Comparison Report 
-![cr](https://user-images.githubusercontent.com/69400494/208177226-fc8f0d0f-2401-42dd-a7f2-683bd1d8440c.png)
+![cr](https://user-images.githubusercontent.com/69400494/209404529-73c60a4c-c46d-4c5a-b4dc-ffcdc98ecf4f.png)
 
 ## Additional Options to The Program Users 
 The user is also use the classes in this program to perform the following operations in addition to what this program can do.
@@ -93,6 +93,11 @@ stat.insertion_max(); // Max run time
 stat.insertion_min(); // Min run time 
 stat.insertion_median(); // Median of running time 
 ```
+Performing Kruskal-Wallis test to check if there is a significant difference between the run time of difference between the algorithms in terms of their running time using the code below.
+
+```cpp 
+stat.kruskalWallis_test(); 
+```
 
 ## References 
 Channels/libraries in the links below were used for understanding the concept behind the algorithms.
@@ -100,3 +105,7 @@ Channels/libraries in the links below were used for understanding the concept be
 [Michael Sambol Channel](https://www.youtube.com/@MichaelSambol/playlists)
 
 [LalithaNatraj Channel](https://www.youtube.com/@LalithaNatraj/playlists)
+
+Learning C++ 
+
+[Barak Shoshany](https://baraksh.com/CSE701/#toc-topics)
