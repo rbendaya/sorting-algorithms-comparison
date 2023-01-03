@@ -4,7 +4,7 @@
 1. [Overview](##Overview)
 2. [This Program Features](##This Program Features)
 3. [Classes](##Classes)
-4. [Sample Command Line Input ](##Sample Command Line Input )
+4. [Sample Command Line Input ](##Sample Command Line Input)
 5. [Sample Output](##Sample Output)
 6. [Additional Options to The Program Users](##Additional Options to The Program Users)
 7. [Sorting Algorithm Code Explanation](##Sorting Algorithm Code Explanation)
