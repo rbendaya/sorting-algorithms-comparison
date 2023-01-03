@@ -1,7 +1,7 @@
 # CSE701 Final Project: Sorting Algorithms Comparison
 
 # Table of Contents
-[Overview](## Overview)
+1. [Overview](## Overview)
 
 ## This Program Features
 
