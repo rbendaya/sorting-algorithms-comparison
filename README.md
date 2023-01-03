@@ -1,13 +1,13 @@
 # CSE701 Final Project: Sorting Algorithms Comparison
 
 # Table of Contents
-1. [Overview](##Overview)
-2. [This Program Features](##This Program Features)
-3. [Classes](##Classes)
-4. [Sample Command Line Input ](##Sample Command Line Input)
-5. [Sample Output](##Sample Output)
-6. [Additional Options to The Program Users](##Additional Options to The Program Users)
-7. [Sorting Algorithm Code Explanation](##Sorting Algorithm Code Explanation)
+1. [Overview](#Overview)
+2. [This Program Features](#This-Program-Features)
+3. [Classes](#Classes)
+4. [Sample Command Line Input ](#Sample-Command-Line-Input)
+5. [Sample Output](#Sample Output)
+6. [Additional Options to The Program Users](#Additional-Options-to-The-Program-Users)
+7. [Sorting Algorithm Code Explanation](#Sorting-Algorithm-Code-Explanation)
 
 ## Overview 
 This program sorts a list of integers from a file and compares the sorting algorithms mentioned below in terms of their time while providing time statistics.
