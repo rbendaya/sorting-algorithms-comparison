@@ -1,8 +1,8 @@
 # CSE701 Final Project: Sorting Algorithms Comparison
 
 # Table of Contents
-- [Overview](## Overview)
-- [This Program Features](## This Program Features)
+[Overview](## Overview)
+[This Program Features](## This Program Features)
 
 ## Overview 
 This program sorts a list of integers from a file and compares the sorting algorithms mentioned below in terms of their time while providing time statistics.
