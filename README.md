@@ -1,4 +1,8 @@
-# CSE701 Project Draft 
+# CSE701 Final Project: Sorting Algorithms Comparison
+
+# Table of Contents
+- [Overview](## Overview)
+- [This Program Features](## This Program Features)
 
 ## Overview 
 This program sorts a list of integers from a file and compares the sorting algorithms mentioned below in terms of their time while providing time statistics.
@@ -9,7 +13,7 @@ This program sorts a list of integers from a file and compares the sorting algor
 * Merge Sort 
 * Heap Sort
   
-## What can this program do 
+## This Program Features
 * sort a list from a file given from a user and printing it in an output file 
 * provide a report comparing the 6 different algorithm in terms of average, median, standard deviation, min and max of the processing time and printing it in an output file.
 * sort based on the user choice of algorithm and printing it in the console 
